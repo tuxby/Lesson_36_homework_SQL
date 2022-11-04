@@ -30,48 +30,5 @@ public static void main(String[] args) throws Exception {
 ```   
 Output:
 
-+---------------------------------------+<p>
-|            Table users160             |
-+----+-----------------+----------------+
-| ID |   FIRST NAME    |   LAST NAME    |
-+----+-----------------+----------------+
-| 1  | Vasya           | Pupkin         |
-| 2  | Ivan            | Kyklochev      |
-| 3  | Masha           | Rykikryki      |
-| 4  | Ostap           | Bender         |
-| 5  | Britney         | Spears         |
-+----+-----------------+----------------+
+![image](https://user-images.githubusercontent.com/87657613/199999705-95558c6c-f70a-418a-9ddd-9c0e9ed94742.png)
 
-+----+------------+------------+------+------+------------------+
-|                       Table pets160                           |
-+----+------------+------------+------+------+------------------+
-| ID |    NAME    |   TYPE     | AGE  |WEIGHT|       USER       |
-+----+------------+------------+------+------+------------------+
-| 1  | Tom        | cat        | 2    | 5    | Vasya Pupkin     |
-| 2  | Jerry      | mouse      | 1    | 1    | Ostap Bender     |
-| 3  | Duck       | goose      | 1    | 3    | Britney Spears   |
-| 4  | Goofy      | dog        | 4    | 11   | Britney Spears   |
-+----+------------+------------+------+------+------------------+
-
-+---------------------------------------+
-|            Table users160             |
-+----+-----------------+----------------+
-| ID |   FIRST NAME    |   LAST NAME    |
-+----+-----------------+----------------+
-| 1  | Vasya           | Pupkin         |
-| 2  | Ivan            | Kyklochev      |
-| 3  | Masha           | Rykikryki      |
-| 4  | Ostap           | Bender         |
-+----+-----------------+----------------+
-
-+----+------------+------------+------+------+------------------+
-|                       Table pets160                           |
-+----+------------+------------+------+------+------------------+
-| ID |    NAME    |   TYPE     | AGE  |WEIGHT|       USER       |
-+----+------------+------------+------+------+------------------+
-| 1  | Tom        | cat        | 2    | 5    | Vasya Pupkin     |
-| 2  | Jerry      | mouse      | 1    | 1    | Ostap Bender     |
-+----+------------+------------+------+------+------------------+
-
-
-Process finished with exit code 0
