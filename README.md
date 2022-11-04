@@ -29,8 +29,8 @@ public static void main(String[] args) throws Exception {
     }
 ```   
 Output:
->>>
-+---------------------------------------+
+
++---------------------------------------+<p>
 |            Table users160             |
 +----+-----------------+----------------+
 | ID |   FIRST NAME    |   LAST NAME    |
