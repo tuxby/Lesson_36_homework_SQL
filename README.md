@@ -1,7 +1,7 @@
 # Lesson_36_homework_SQL
 
 Test CODE:
-
+```java
 public static void main(String[] args) throws Exception {
 
         Users users160 =new Users();
@@ -27,7 +27,7 @@ public static void main(String[] args) throws Exception {
         System.out.println(pets160.toString());
 
     }
-    
+```   
 Output:
 
 +---------------------------------------+
